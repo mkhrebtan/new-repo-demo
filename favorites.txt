@@ -1,3 +1,8 @@
+==Food==
 1. my first fav food
 2. my second fav food
 3. my third fav food
+==Movies==
+1. my first fav movie
+2. my second fav movie
+3. my third fav movie
